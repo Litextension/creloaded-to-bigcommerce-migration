@@ -7,7 +7,7 @@ Download: https://litextension.com/bigcommerce-migration/creloaded-to-bigcommerc
 
 
 == Description ==
-LitExtension Creloaded to BigCommerce Migration plugin allows you to migrate your products, orders, customers, passwords and other data from osCommerce to WooCommerce automatically.
+LitExtension Creloaded to BigCommerce Migration plugin allows you to migrate your products, orders, customers, passwords and other data from Creloaded to BigCommerce automatically.
 
 = WHAT DATA CAN POSSIBLY BE MIGRATED =
 
